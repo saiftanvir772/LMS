@@ -1,2 +1,0 @@
-# LMS
-Loan Management System
